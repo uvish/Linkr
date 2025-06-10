@@ -1,0 +1,14 @@
+{
+  "domain": "http://localhost:8080",
+  "database": {
+    "host": "postgresDB",
+    "port": 5432,
+    "user": "postgres",
+    "password": "postgres",
+    "name": "url_shortener",
+    "sslmode": "disable"
+  },
+  "cache":{
+    "size" : 1000
+  }
+}
