@@ -1,4 +1,4 @@
-<img src="ui/logo.png" style="width:150px">
+<img src="ui/logo.png" style="width:150px;border-radius:5px">
 <br>
 # 🔗 Linkr
 
@@ -12,6 +12,8 @@ docker-compose up --build
 
 - API : [http://localhost:8080](http://localhost:8080)  
 - UI : [http://localhost:1234](http://localhost:1234)
+
+<img src="ui/screenshot.png" style="width:500px;border-radius:5px;">
 
 ## 📘 API Endpoints
 
