@@ -1,6 +1,6 @@
 <img src="ui/logo.png" style="width:150px">
 <br>
-# 🔗 URL Shortener
+# 🔗 Linkr
 
 A self-hosted, minimal URL shortener built with Golang. Fast, simple, and Docker-ready.
 
